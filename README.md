@@ -2,15 +2,17 @@
 
 <h1 align="center"><img src="logo-dark-2.svg"></h1>
 
+<div align="center">
 **Kelompok 6 Komunikasi Data dan Jaringan Paralel 2**
 
 | No | Nama | NIM |
-|:--:|------|-----|
+|:--:|:--:|:--:|
 | 1 | Anisa Nur Rohmah | M0403241035 |
 | 2 | Dhikral Baihaqi | M0403241168 |
 | 3 | Suryani Prayudia H. | M0403241063 |
 | 4 | Nabil Musannif Siregar | M0403241121 |
-| 5 | Nugraheni Dwi Ayu P.  | M0403241012 |
+| 5 | Nugraheni Dwi Ayu P. | M0403241012 |
+</div>
 
 <table>
   <tr>
