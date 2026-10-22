@@ -262,11 +262,11 @@ Catatan : akun bawaan BugPin (`admin@example.com`) memakai password yang tertuli
 
 [`^ kembali ke atas ^`](#aplikasi-web-bugpin)
 
-Pada proyek ini, BugPin sudah di-deploy ke Microsoft Azure sehingga dapat diakses melalui browser. BugPin digunakan untuk mengumpulkan laporan bug melalui widget dan memeriksa laporan tersebut melalui dashboard.
+Pada proyek ini, BugPin telah di-deploy ke Microsoft Azure sehingga dapat diakses melalui browser. BugPin digunakan untuk mengumpulkan laporan bug melalui widget dan memeriksa laporan tersebut menggunakan dashboard.
 
 ### 1.1 Akses Aplikasi BugPin
 
-Aplikasi BugPin dapat dibuka melalui alamat berikut:
+Aplikasi BugPin dapat dibuka dengan alamat berikut:
 
 **URL:** [https://bugpin-kdjk-kel6.malaysiawest.cloudapp.azure.com](https://bugpin-kdjk-kel6.malaysiawest.cloudapp.azure.com/)
 
