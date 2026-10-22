@@ -1,5 +1,7 @@
 # Aplikasi Web "BugPin"
 
+<h1 align="center"><img src="logo-dark-2.svg"></h1>
+
 **Kelompok 6 Komunikasi Data dan Jaringan Paralel 2**
 
 | No | Nama | NIM |
