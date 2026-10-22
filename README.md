@@ -1,6 +1,6 @@
 # Aplikasi Web "BugPin"
 
-**Kelompok X Komunikasi Data dan Jaringan**
+**Kelompok 6 Komunikasi Data dan Jaringan Paralel 2**
 
 | No | Nama | NIM |
 |:--:|------|-----|
