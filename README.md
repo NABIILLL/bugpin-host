@@ -3,7 +3,7 @@
 <h1 align="center"><img src="logo-dark-2.svg"></h1>
 
 <div align="center">
-**Kelompok 6 Komunikasi Data dan Jaringan Paralel 2**
+<strong>Kelompok 6 Komunikasi Data dan Jaringan Paralel 2</strong>
 
 | No | Nama | NIM |
 |:--:|:--:|:--:|
