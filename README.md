@@ -1,6 +1,6 @@
 # Aplikasi Web "BugPin"
 
-<h1 align="center"><img src="logo-dark-2.svg"></h1>
+<h1 align="center"><img src="photos/logo-dark-2.svg"></h1>
 
 <div align="center">
 <strong>Kelompok 6 Komunikasi Data dan Jaringan Paralel 2</strong>
@@ -309,7 +309,7 @@ Dengan cara ini, laporan bug dapat dikumpulkan pada satu tempat. Deskripsi dan s
 
 **Gambar 4. Laporan Bug pada Dashboard**
 
-![Laporan BugPin pada dashboard](photos/gambar%2014.png)
+![Laporan BugPin pada dashboard](photos/gambar%2013.png)
 
 ### 1.3 Integrasi dengan GitHub
 
@@ -423,7 +423,7 @@ Jika laporan berhasil masuk, informasi tersebut dapat digunakan untuk memahami m
 
 **Gambar 14. Detail Laporan Bug**
 
-![Detail laporan BugPin](photos/gambar%2015.png)
+![Detail laporan BugPin](photos/gambar%2014.png)
 
 ### 2.6 Menindaklanjuti Laporan
 
@@ -440,7 +440,7 @@ Secara umum, prosesnya adalah:
 
 **Gambar 15. Proses Tindak Lanjut Laporan**
 
-![Proses tindak lanjut laporan BugPin](photos/image-1.png)
+![Proses tindak lanjut laporan BugPin](photos/gambar%2015.png)
 
 ## Pembahasan
 
