@@ -224,7 +224,7 @@ Gunakan akun bawaan BugPin untuk login pertama kali:
 |-------|----------|
 | `admin@example.com` | `changeme123` |
 
-![alt text](image-1.png)
+![Dashboard Admin BugPin](photos/image-1.png)
 
 ## Konfigurasi
 
@@ -282,7 +282,7 @@ Dengan deployment ini, pengguna dapat mengakses aplikasi melalui browser tanpa p
 
 **Gambar 1. Halaman Aplikasi BugPin**
 
-*Letakkan screenshot halaman BugPin yang berhasil dibuka melalui browser.*
+![Halaman aplikasi BugPin](photos/image.png)
 
 ### 1.2 Pengumpulan Laporan Bug
 
@@ -301,15 +301,15 @@ Dengan cara ini, laporan bug dapat dikumpulkan pada satu tempat. Deskripsi dan s
 
 **Gambar 2. Widget BugPin pada Website**
 
-*Letakkan screenshot widget yang muncul pada website.*
+![Widget BugPin pada website](photos/gambar%202%20dan%209.png)
 
 **Gambar 3. Formulir Laporan Bug**
 
-*Letakkan screenshot formulir laporan sebelum dikirim.*
+![Formulir laporan BugPin](photos/gambar%203%20dan%2010.png)
 
 **Gambar 4. Laporan Bug pada Dashboard**
 
-*Letakkan screenshot laporan yang berhasil masuk ke dashboard.*
+![Laporan BugPin pada dashboard](photos/gambar%2014.png)
 
 ### 1.3 Integrasi dengan GitHub
 
@@ -339,11 +339,11 @@ Dashboard digunakan untuk mengakses project dan melihat laporan bug.
 
 **Gambar 6. Halaman Login BugPin**
 
-*Letakkan screenshot halaman login jika tersedia.*
+![Halaman login BugPin](photos/gambar%206%20login%20bugpin%20.png)
 
 **Gambar 7. Dashboard BugPin**
 
-*Letakkan screenshot dashboard setelah berhasil login.*
+![Dashboard BugPin](photos/gambar%207%20dashboard.png)
 
 ### 2.2 Memilih Project
 
@@ -360,7 +360,7 @@ Nama menu dapat disesuaikan dengan tampilan aplikasi yang sebenarnya. Jika proje
 
 **Gambar 8. Daftar Project BugPin**
 
-*Letakkan screenshot daftar project pada dashboard.*
+![Daftar project BugPin](photos/gambar%208.png)
 
 ### 2.3 Menggunakan Widget BugPin
 
@@ -377,11 +377,11 @@ Jika widget tidak muncul, periksa kembali pemasangan script dan konfigurasi proj
 
 **Gambar 9. Widget BugPin pada Website**
 
-*Letakkan screenshot website yang menunjukkan posisi widget.*
+![Posisi widget BugPin pada website](photos/gambar%202%20dan%209.png)
 
 **Gambar 10. Formulir Widget BugPin**
 
-*Letakkan screenshot formulir setelah widget dibuka.*
+![Formulir widget BugPin](photos/gambar%203%20dan%2010.png)
 
 ### 2.4 Mengirim Laporan Bug
 
@@ -398,11 +398,11 @@ Judul dan deskripsi yang jelas akan memudahkan pengelola memahami masalah. Hinda
 
 **Gambar 11. Pengisian Laporan Bug**
 
-*Letakkan screenshot formulir yang sudah diisi.*
+![Pengisian laporan BugPin](photos/gambar%2011.png)
 
 **Gambar 12. Pengiriman Laporan Bug**
 
-*Letakkan screenshot konfirmasi pengiriman jika tersedia.*
+![Pengiriman laporan BugPin](photos/gambar%2012.png)
 
 ### 2.5 Memeriksa Laporan pada Dashboard
 
@@ -419,11 +419,11 @@ Jika laporan berhasil masuk, informasi tersebut dapat digunakan untuk memahami m
 
 **Gambar 13. Daftar Laporan Bug**
 
-*Letakkan screenshot daftar laporan pada dashboard.*
+![Daftar laporan BugPin](photos/gambar%2013.png)
 
 **Gambar 14. Detail Laporan Bug**
 
-*Letakkan screenshot detail laporan yang menunjukkan informasi masalah.*
+![Detail laporan BugPin](photos/gambar%2015.png)
 
 ### 2.6 Menindaklanjuti Laporan
 
@@ -440,7 +440,7 @@ Secara umum, prosesnya adalah:
 
 **Gambar 15. Proses Tindak Lanjut Laporan**
 
-*Tambahkan screenshot jika kelompok sudah menguji fitur perubahan status atau integrasi GitHub.*
+![Proses tindak lanjut laporan BugPin](photos/image-1.png)
 
 ## Pembahasan
 
