@@ -311,16 +311,6 @@ Dengan cara ini, laporan bug dapat dikumpulkan pada satu tempat. Deskripsi dan s
 
 ![Laporan BugPin pada dashboard](photos/gambar%2013.png)
 
-### 1.3 Integrasi dengan GitHub
-
-BugPin dapat dihubungkan dengan GitHub untuk membantu pengelolaan laporan melalui GitHub Issues, sesuai fitur dan konfigurasi yang digunakan.
-
-Secara umum, pengaturannya meliputi pemilihan repository tujuan, pemberian izin akses yang sesuai, dan pengujian integrasi. Jika sudah dikonfigurasi, fitur ini dapat membantu pengembang menindaklanjuti laporan bug melalui repository.
-
-**Gambar 5. Integrasi GitHub pada BugPin**
-
-*Jika integrasi sudah diuji, tambahkan screenshot pengaturan atau issue yang berhasil dibuat. Jangan tampilkan token, password, atau informasi rahasia lainnya.*
-
 ## Cara Pemakaian
 
 [`^ kembali ke atas ^`](#aplikasi-web-bugpin)
@@ -427,7 +417,7 @@ Jika laporan berhasil masuk, informasi tersebut dapat digunakan untuk memahami m
 
 ### 2.6 Menindaklanjuti Laporan
 
-Setelah laporan diperiksa, pengembang dapat menentukan bagian website yang perlu diperbaiki. Jika fitur pengelolaan status atau integrasi GitHub tersedia dan sudah dikonfigurasi, fitur tersebut dapat digunakan untuk membantu proses tindak lanjut.
+Setelah laporan diperiksa, pengembang dapat menentukan bagian website yang perlu diperbaiki. 
 
 Secara umum, prosesnya adalah:
 
