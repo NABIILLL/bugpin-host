@@ -497,5 +497,4 @@ Agar dapat digunakan dengan baik, aplikasi perlu memiliki konfigurasi yang sesua
 11. [Quickstart: Create a Linux VM in the Azure Portal](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal) - Microsoft Learn
 12. [Network Security Groups Overview](https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview) - Microsoft Learn
 13. [Azure for Students](https://azure.microsoft.com/en-us/free/students) - Microsoft Azure
-
 14. [Bugpin](https://bugpin-kdjk-kel6.malaysiawest.cloudapp.azure.com/) - Bugpin yang dimodifikasi kelompok kami
